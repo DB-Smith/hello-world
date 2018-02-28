@@ -1,2 +1,2 @@
 # hello-world
-First repository
+Learning Git tutorial - first commit to readme-edits branch
